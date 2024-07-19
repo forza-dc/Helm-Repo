@@ -3,12 +3,12 @@ entries:
   forza-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-19T08:35:30.212324892-04:00"
+    created: "2024-07-19T08:38:30.216122022-04:00"
     description: A Helm chart for Kubernetes
-    digest: db804e971584acbadb9a3959a3631568dbeb82fb19ef0577fb969b52082a848a
+    digest: 51bf3a55484567d6094ba7e9fa46ed0a1574311f73374586766c194d57de2c61
     name: forza-app
     type: application
     urls:
     - https://forza-dc.github.io/Helm-Repo/forza-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-19T08:35:30.209525197-04:00"
+generated: "2024-07-19T08:38:30.213271826-04:00"
